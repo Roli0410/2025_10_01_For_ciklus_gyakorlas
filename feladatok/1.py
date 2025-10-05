@@ -6,7 +6,7 @@ szam = int(input("Adj meg egy egész számot!"))
 
 osszeg = 0
 
-for i in range(1,  szam + 1)
+for i in range(1,  szam + 1):
         osszeg += i
 
 

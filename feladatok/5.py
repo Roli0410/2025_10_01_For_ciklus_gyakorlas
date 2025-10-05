@@ -5,3 +5,8 @@
 ...
 5 x 10 = 50
 """
+
+szam = int(input("Adj meg egy számot"))
+
+for i in range(1, 11):
+    print(f"{szam} x {i} = {szam * i}")
